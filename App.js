@@ -1,5 +1,5 @@
 import React from 'react';
-import { SafeAreaView, StyleSheet } from 'react-native';
+import {SafeAreaView, StyleSheet} from 'react-native';
 import CameraComponent from './src/CameraComponent';
 
 const App = () => {
@@ -13,7 +13,7 @@ const App = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
+    backgroundColor: 'white',
   },
 });
 
